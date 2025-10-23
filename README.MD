@@ -66,17 +66,17 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 <p>
     <a 
-        href="https://github.com/dielsonmatos" target="_blank">
+        href="https://github.com/dielsonmatos">
         GitHub
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="https://www.linkedin.com/in/dielsonmatos" target="_blank">
+        href="https://www.linkedin.com/in/dielsonmatos">
         LinkedIn
     </a>
     &nbsp;|&nbsp;
     <a 
-        href="https://dielsonmatos.github.io/projeto" target="_blank">
+        href="https://dielsonmatos.github.io/projeto">
         DevLinks
     </a>
 </p>
